@@ -2,9 +2,22 @@
 
 Software Engineer and UI/UX Designer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
+                                              
 - 🌱 I’m currently learning cse
-- 🤔 I’m looking for help with Placements in FAANG
+- # About Me
+
+Hi, I'm Vishnu, a Computer Science and Engineering student from Theni district, currently studying at Erode Sengunthar Engineering College. I'm passionate about technology, problem-solving, and building innovative solutions. I love exploring new technologies and contributing to projects that make a difference.
+
+Feel free to check out my repositories and connect with me!
+
+## Skills
+- Programming: [List your programming languages, e.g., Java, Sql,ui/ux .]
+- Tools & Technologies: [List tools or frameworks you use,figma]
+- [Other skills or areas of expertise]
+
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/vishnu-v-7a2a27297/)
+
 - 💬 Ask me about Tech
 
 
