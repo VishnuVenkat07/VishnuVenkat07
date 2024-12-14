@@ -11,14 +11,14 @@ Hi, I'm Vishnu, a Computer Science and Engineering student from Theni district, 
 Feel free to check out my repositories and connect with me!
 
 ## Skills
-- Programming: [List your programming languages, e.g., Java, Sql,ui/ux .]
-- Tools & Technologies: [List tools or frameworks you use,figma]
-- [Other skills or areas of expertise]
+- Programming: [C++,C, Java, Sql,html,css,Js]
+- Tools & Technologies: [Frontend Developer and Logo Designer,UI/UX,figma]
+
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/vishnu-v-7a2a27297/)
 
-- 💬 Ask me about Tech
+- [portfolio](https://vishnuvenkat07.github.io/My-portfolio-v-website/).
 
 
 ### I code in
